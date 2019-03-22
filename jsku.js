@@ -1,8 +1,8 @@
 
 let date = new Date();
 let day = date.getDate();
-//let jam = date.getHours();
-jam = 2;
+let jam = date.getHours();
+
 
 //=========================== list
 
