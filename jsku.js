@@ -471,7 +471,7 @@ let jam = date.getHours();
             }else if(day == 7 || day == 24   ) {
 			  load = urlg
               
-            }else if(day == 8 || day == 24   ) {
+            }else if(day == 8 || day == 25   ) {
 			  load = urlh
               
             }else if(day == 9 || day == 26   ) {
